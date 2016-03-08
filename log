@@ -1,0 +1,5 @@
+error:
+Could not resolve hostname github: name or service
+
+ssh_exchange_identification: Connection closed by remote hostname
+fatal: Colud not read from remote repository
